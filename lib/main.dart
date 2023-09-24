@@ -12,12 +12,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Product List'),
-        ),
-        body: ProductList(products),
+      theme: ThemeData(
+        primarySwatch: Colors.indigo,
       ),
+      home: ProductList(products),
     );
   }
 }
