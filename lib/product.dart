@@ -1,4 +1,5 @@
 // It defines the Structure of a Product.
+
 class Product {
   final String name;
   final double price;

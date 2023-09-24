@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mod7_productlist/product_data.dart';
 import 'package:mod7_productlist/product_list.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Product List'),
         ),
-        body: Container(),
+        body: ProductList(products),
       ),
     );
   }
