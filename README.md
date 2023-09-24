@@ -24,8 +24,12 @@ The Product List App is a simple Flutter application that allows users to view a
 - Track the total number of products in your cart and also, the amount of the products.
 
 ## Screenshots
-
-[Add screenshots of your app here, if desired.]
+1. Screenshot of the product list.
+   ![Screenshot_1695565452](https://github.com/ob1Kenoobi/mod7-assignment/assets/140194680/bfe44b8a-9935-442c-9910-78b64000584d)
+3. Screenshot of the Alert Dialog.
+   ![Screenshot_1695565467](https://github.com/ob1Kenoobi/mod7-assignment/assets/140194680/5846db55-78de-482b-ac77-79bf9c8515f7)
+4. Screenshot of the cart page.
+   ![Screenshot_1695565480](https://github.com/ob1Kenoobi/mod7-assignment/assets/140194680/00804be9-27ea-4a27-bdfc-a657fee07b94)
 
 ## Getting Started
 
@@ -70,7 +74,7 @@ Contributions are welcome!
 This project is licensed under the MIT License.
 
 ### Acknowledgments
-Ostad teachers and support stuff.
+Ostad teachers and support staff.
 
 ## Support
 If you have any questions or encounter any issues, please contact me
